@@ -108,7 +108,7 @@ below
 
 4. Why does the screenshot fail to be saved?
 	
-	*  The reason for this problem is that the request of read and write the download folder is rejected.
+	* The reason for this problem is that the request of read and write the download folder is rejected.
 	* Open system preferences, select Security and Privacy
 	* Select files and folders, and check the download folder under Paste, as shown below
 
