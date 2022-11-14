@@ -1,11 +1,10 @@
-# <center><img style="background-Color:#00000010;vertical-align:middle" src="images/icon.png" width=66> PasteEasy </center>
+# PasteEasy
+# <img style="background-Color:#00000010;vertical-align:middle" src="./images/icon_256x256.png" width=200>
 
 
-### PasteEasy Feedback
-
+### O、Feedback
 
 ### 👀 [issues history](https://github.com/MinMao-Hub/PasteEasy/issues)
-
 ### 🖌 [Report new issues](https://github.com/MinMao-Hub/PasteEasy/issues/new)
 
 
@@ -81,13 +80,13 @@ Besides, you can modify the shortcuts by preference
 
 * Open system preferences, select Security and Privacy
 
-<img src="help1.png" width=400>
+<img src="./images/help1.png" width=400>
 
 * Click Accessibility, check Paste application
 
 ***PS: First, click the unlock function showed on the left lower corner of the below picture, then enter the password and complete setting, Next, re-lock is available.***
 
-<img src="help2.png" width=400>
+<img src="./images/help2.png" width=400>
 below
 
 ### III、FAQ
@@ -112,7 +111,7 @@ below
 	* Open system preferences, select Security and Privacy
 	* Select files and folders, and check the download folder under Paste, as shown below
 
-<img src="help4.png" width=400>
+<img src="./images/help4.png" width=400>
 
 ### IV、Tips
 
