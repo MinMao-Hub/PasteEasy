@@ -4,7 +4,7 @@
 
 ### O、Feedback
 
-### 👀 [Issues history](https://github.com/MinMao-Hub/PasteEasy/issues)
+### 👀 [Issues History](https://github.com/MinMao-Hub/PasteEasy/issues)
 ### 🖌 [Report Issues & Feedback](https://github.com/MinMao-Hub/PasteEasy/issues/new)
 
 
