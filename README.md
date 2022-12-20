@@ -1,6 +1,7 @@
 # PasteEasy
-# <img style="background-Color:#00000010;vertical-align:middle" src="./images/icon_256x256.png" width=200>
+# <img style="background-Color:#00000010;vertical-align:middle" src="./en/images/icon_256x256.png" width=200>
 
+[English] - [中文版](https://github.com/MinMao-Hub/PasteEasy/cn/README.md)
 
 ### O、Feedback
 
@@ -24,6 +25,9 @@ Besides, you can modify the shortcuts by preference
 1. Double-click the small card for immediate paste.
 2. Select the card and press the enter key to paste
 3. Right-click done, PASTE pops up
+4. Command + 1~9 Quickly paste the data currently in the display area
+5. Press Key Command Or Shift and Select cards for multiple selection
+6. Press Key Command Or Shift and switching the Left & Right on the keyboard for multiple selection
 
 #### About Deletion
 1. Right-click to selecct, and DELETE pops up
@@ -31,7 +35,7 @@ Besides, you can modify the shortcuts by preference
 3. Preference: Delete all records.
 
 #### About Search
-1. You can check the autofocus search box option on the settings page
+1. You can click any number and letter key on the keyboard to start the search.
 2. Accurate search for text and title
 3. Accurate search according to type [text, picture, file, etc.] 
 4. Accurate search according to the name of the pasted source app
@@ -51,10 +55,13 @@ Besides, you can modify the shortcuts by preference
 1. Scroll the list by sliding the touchpad with two fingers 
 2. Scroll the list by mouse wheel 
 3. Scroll the list by incessantly pressing key Shift 
-4. Scroll the list by switching the Left & Right or Upper & Down on the keyboard
+4. Scroll the list by switching the Left & Right on the keyboard[Switching]
+5. Scroll the list by switching the Upper & Down on the keyboard[Turn the page]
 
 ##### About Right click menu
 1. You can right-click to call up the menu to customize the title of the card
+2. Paste as plain text
+3. Only copy
 2. You can extract MD5 strings of text, files, etc.
 3. English case can be converted
 4. The screenshot can be saved directly to the download folder
@@ -80,13 +87,13 @@ Besides, you can modify the shortcuts by preference
 
 * Open system preferences, select Security and Privacy
 
-<img src="./images/help1.png" width=400>
+<img src="./en/images/help1.png" width=400>
 
 * Click Accessibility, check Paste application
 
 ***PS: First, click the unlock function showed on the left lower corner of the below picture, then enter the password and complete setting, Next, re-lock is available.***
 
-<img src="./images/help2.png" width=400>
+<img src="./en/images/help2.png" width=400>
 below
 
 ### III、FAQ
@@ -102,6 +109,8 @@ below
 		* exit the program
 		* Re-check the auxiliary program function
 		* Restart the computer
+	* Method 3
+		* Remove PasteEasy from the list of helper programs and restart PasteEasy App
 3. It keeps crashing and cannot be opened
   * This problem is generally caused by the unsupported content format in the current pasteboard or a software bug. Try to copy a paragraph of text again and open the application again. The problem can basically be solved.
 
@@ -111,7 +120,7 @@ below
 	* Open system preferences, select Security and Privacy
 	* Select files and folders, and check the download folder under Paste, as shown below
 
-<img src="./images/help4.png" width=400>
+<img src="./en/images/help4.png" width=400>
 
 ### IV、Tips
 
