@@ -1,7 +1,7 @@
 # PasteEasy
 # <img style="background-Color:#00000010;vertical-align:middle" src="./images/icon_256x256.png" width=200>
 
-[中文版] - [English](https://github.com/MinMao-Hub/PasteEasy/README.md)
+[中文版] - [English](https://github.com/MinMao-Hub/PasteEasy)
 
 ### O、Feedback
 
