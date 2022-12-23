@@ -6,7 +6,7 @@
 ### O、Feedback
 
 ### 👀 [问题历史](https://github.com/MinMao-Hub/PasteEasy/issues?q=)
-### 🖌 [报告意见与反馈](https://github.com/MinMao-Hub/PasteEasy/issues/new)
+### 🖌 [报告意见与反馈](https://github.com/MinMao-Hub/PasteEasy/issues/new)（报告之前请先查看[问题历史](https://github.com/MinMao-Hub/PasteEasy/issues?q=)，是否已记录你所遇到的问题）
 
 
 ### 一、新手教程
