@@ -11,6 +11,10 @@
 
 ### 一、新手教程
 
+#### [开机自动启动教程：](https://github.com/MinMao-Hub/PasteEasy/blob/main/cn/help_launch.md)
+
+[点击查看开机自动启动教程https://github.com/MinMao-Hub/PasteEasy/blob/main/cn/help_launch.md)
+
 #### 关于唤醒和关闭：
 
 默认唤醒快捷键为  `⌘⇧V`， 再次点击`⌘⇧V`关闭PasteBoard，或者点击键盘ESC关闭。
