@@ -11,6 +11,10 @@
 
 ### I、Novice Guide
 
+#### [Auto start tutorial:](https://github.com/MinMao-Hub/PasteEasy/blob/main/en/help_launch.md)
+
+[Click to view the Boot Auto start tutorial](https://github.com/MinMao-Hub/PasteEasy/blob/main/en/help_launch.md)
+
 #### About Show & Close:
  
 The default shortcuts is `⌘⇧V`, reclick `⌘⇧V` or click ESC to close PasteBoard.
