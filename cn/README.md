@@ -13,7 +13,7 @@
 
 #### [开机自动启动教程：](https://github.com/MinMao-Hub/PasteEasy/blob/main/cn/help_launch.md)
 
-[点击查看开机自动启动教程https://github.com/MinMao-Hub/PasteEasy/blob/main/cn/help_launch.md)
+[点击查看开机自动启动教程](https://github.com/MinMao-Hub/PasteEasy/blob/main/cn/help_launch.md)
 
 #### 关于唤醒和关闭：
 
