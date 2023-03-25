@@ -143,4 +143,4 @@
 
 微信: `mp12860`
 
-Telegram:  [https://t.me/+tSQBjDn0Y8QwNWU1](https://t.me/+tSQBjDn0Y8QwNWU1)
+Telegram Group:  [https://t.me/+tSQBjDn0Y8QwNWU1](https://t.me/+tSQBjDn0Y8QwNWU1)
