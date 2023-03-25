@@ -139,5 +139,6 @@ below
 Mail: [m12860gyh@gmail.com](mailto:?to=m12860gyh@gmail.com&subject=关于Paste&body=Hi，MinMao)
 
 WeChat / WhatsApp: `+86 15121178175`
+Telegram:  [https://t.me/+tSQBjDn0Y8QwNWU1](https://t.me/+tSQBjDn0Y8QwNWU1)
 
 
