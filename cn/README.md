@@ -147,6 +147,6 @@ Telegram Group:  [https://t.me/+tSQBjDn0Y8QwNWU1](https://t.me/+tSQBjDn0Y8QwNWU1
 
 微信群贴这里，感兴趣的小伙伴可扫码入群：
 
-<img src="[./images/help4.png](https://user-images.githubusercontent.com/9302381/227819999-2842e8c8-bf75-4fc6-9072-9f47d17d868a.jpg)" width=200>
+<img src="https://user-images.githubusercontent.com/9302381/227819999-2842e8c8-bf75-4fc6-9072-9f47d17d868a.jpg" width=250>
 <!-- ![微信群](https://user-images.githubusercontent.com/9302381/227819999-2842e8c8-bf75-4fc6-9072-9f47d17d868a.jpg) -->
 
