@@ -9,6 +9,15 @@
 ### 🖌 [报告意见与反馈](https://github.com/MinMao-Hub/PasteEasy/issues/new)（报告之前请先查看[问题历史](https://github.com/MinMao-Hub/PasteEasy/issues?q=)，是否已存在你所遇到的问题）
 
 
+### 0.1 交流群
+
+纸飞机Telegram:  [https://t.me/+tSQBjDn0Y8QwNWU1](https://t.me/+tSQBjDn0Y8QwNWU1)
+
+微信群贴这里，感兴趣的小伙伴可扫码入群：
+
+<img src="https://user-images.githubusercontent.com/9302381/227819999-2842e8c8-bf75-4fc6-9072-9f47d17d868a.jpg" width=250>
+
+
 ### 一、新手教程
 
 #### [开机自动启动教程：](https://github.com/MinMao-Hub/PasteEasy/blob/main/cn/help_launch.md)
@@ -142,11 +151,3 @@
 邮箱: [m12860gyh@163.com](mailto:?to=m12860gyh@163.com&subject=关于Paste&body=Hi，MinMao)
 
 微信: `mp12860`
-
-Telegram Group:  [https://t.me/+tSQBjDn0Y8QwNWU1](https://t.me/+tSQBjDn0Y8QwNWU1)
-
-微信群贴这里，感兴趣的小伙伴可扫码入群：
-
-<img src="https://user-images.githubusercontent.com/9302381/227819999-2842e8c8-bf75-4fc6-9072-9f47d17d868a.jpg" width=250>
-<!-- ![微信群](https://user-images.githubusercontent.com/9302381/227819999-2842e8c8-bf75-4fc6-9072-9f47d17d868a.jpg) -->
-
