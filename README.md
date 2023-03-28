@@ -140,6 +140,6 @@ Mail: [m12860gyh@gmail.com](mailto:?to=m12860gyh@gmail.com&subject=关于Paste&b
 
 WeChat / WhatsApp: `+86 15121178175`
 
-Telegram Group:  [https://t.me/+tSQBjDn0Y8QwNWU1](https://t.me/+tSQBjDn0Y8QwNWU1)
+Telegram Group:  [https://t.me/pasteeasy6](https://t.me/pasteeasy6)
 
 
