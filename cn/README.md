@@ -11,7 +11,7 @@
 
 ### 0.1 交流群
 
-纸飞机Telegram:  [https://t.me/+tSQBjDn0Y8QwNWU1](https://t.me/+tSQBjDn0Y8QwNWU1)
+纸飞机Telegram:  [https://t.me/pasteeasy6](https://t.me/pasteeasy6)
 
 微信群贴这里，感兴趣的小伙伴可扫码入群：
 
