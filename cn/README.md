@@ -15,7 +15,7 @@
 
 微信群贴这里，感兴趣的小伙伴可扫码入群：
 
-<img src="https://user-images.githubusercontent.com/9302381/227819999-2842e8c8-bf75-4fc6-9072-9f47d17d868a.jpg" width=250>
+<img src="https://user-images.githubusercontent.com/9302381/230359713-42769c28-62a2-43a6-b805-3f12d01732da.png" width=250>
 
 
 ### 一、新手教程
