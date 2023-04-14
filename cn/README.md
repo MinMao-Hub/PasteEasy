@@ -13,9 +13,9 @@
 
 纸飞机Telegram:  [https://t.me/pasteeasy6](https://t.me/pasteeasy6)
 
-微信群贴这里，感兴趣的小伙伴可扫码入群：
+微信群贴这里，感兴趣的小伙伴可扫码入群：【有时候可能会忘记更新，加不到直接私聊我微信】
 
-<img src="https://user-images.githubusercontent.com/9302381/230359713-42769c28-62a2-43a6-b805-3f12d01732da.png" width=250>
+<img src="https://user-images.githubusercontent.com/9302381/231936861-154063b0-fd9d-4b0e-8cae-bb599edfb5dd.jpg" width=250>
 
 
 ### 一、新手教程
