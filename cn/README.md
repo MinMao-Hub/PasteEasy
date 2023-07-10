@@ -9,13 +9,14 @@
 ### 🖌 [报告意见与反馈](https://github.com/MinMao-Hub/PasteEasy/issues/new)（报告之前请先查看[问题历史](https://github.com/MinMao-Hub/PasteEasy/issues?q=)，是否已存在你所遇到的问题）
 
 
+
 ### 0.1 交流群
 
 纸飞机Telegram:  [https://t.me/pasteeasy6](https://t.me/pasteeasy6)
 
 微信群贴这里，感兴趣的小伙伴可扫码入群：【有时候可能会忘记更新，加不到直接私聊我微信】
 
-<img src="https://github.com/MinMao-Hub/PasteEasy/assets/9302381/4c6a733e-7d44-443f-b828-629e575cad8c" width=250>
+<img src="https://github.com/MinMao-Hub/PasteEasy/assets/9302381/cb4e3a91-cca2-4c2b-9199-cc576717c26f" width=250>
 
 ### 一、新手教程
 
