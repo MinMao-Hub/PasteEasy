@@ -7,7 +7,7 @@
 
 ### 👀 [Issues History](https://github.com/MinMao-Hub/PasteEasy/issues?q=)
 ### 🖌 [Report Issues & Feedback](https://github.com/MinMao-Hub/PasteEasy/issues/new) (Please [check](https://github.com/MinMao-Hub/PasteEasy/issues?q=) the issues history before reporting)
-### 🔧Hint： Use this repair software to fix it when you encounter PasteEasy crash that cannot be opened.[PasteEasyRepair](https://github.com/MinMao-Hub/PasteEasyRepair/releases/tag/1.0)
+### 🛠 Hint： Use this repair software to fix it when you encounter PasteEasy crash that cannot be opened.[PasteEasyRepair](https://github.com/MinMao-Hub/PasteEasyRepair/releases/tag/1.0)
 
 ### I、Novice Guide
 
