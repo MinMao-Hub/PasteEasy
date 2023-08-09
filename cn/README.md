@@ -7,7 +7,7 @@
 
 ### 👀 [问题历史](https://github.com/MinMao-Hub/PasteEasy/issues?q=)
 ### 🖌 [报告意见与反馈](https://github.com/MinMao-Hub/PasteEasy/issues/new)（报告之前请先查看[问题历史](https://github.com/MinMao-Hub/PasteEasy/issues?q=)，是否已存在你所遇到的问题）
-
+### 🛠 重要提示： 遇到PasteEasy闪退不能打开的时候用这个修复软件修复一下即可。[PasteEasyRepair](https://github.com/MinMao-Hub/PasteEasyRepair/releases/tag/1.0)
 
 
 ### 0.1 交流群
