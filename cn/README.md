@@ -16,7 +16,8 @@
 
 微信群贴这里，感兴趣的小伙伴可扫码入群：【有时候可能会忘记更新，加不到直接私聊我微信】
 
-<img src="https://github.com/MinMao-Hub/PasteEasy/assets/9302381/cb4e3a91-cca2-4c2b-9199-cc576717c26f" width=250>
+<img src="https://github.com/MinMao-Hub/PasteEasy/assets/9302381/fd5cb0ef-160c-4da9-9ad2-d4cef1de0ed9" width=250>
+
 
 ### 一、新手教程
 
