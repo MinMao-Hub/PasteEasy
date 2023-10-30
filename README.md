@@ -104,25 +104,26 @@ below
 1. Why can't paste successfully?
   * Check whether the auxiliary program function is enabled [see the second item above]
 2. The auxiliary program has been checked, but still cannot be pasted successfully
-	* method 1 
-		* exit the program
-		* Re-check the [off and then on] auxiliary program function
-		* Open the program
-		* Copy a piece of text
-	* Method 2
-		* exit the program
-		* Re-check the auxiliary program function
-		* Restart the computer
-	* Method 3
-		* Remove PasteEasy from the list of helper programs and restart PasteEasy App
+  * Method 1
+    * Remove PasteEasy from the list of helper programs and restart PasteEasy App
+  * method 2 
+    * exit the program
+    * Re-check the [off and then on] auxiliary program function
+    * Open the program
+    * Copy a piece of text
+  * Method 3
+    * exit the program
+    * Re-check the auxiliary program function
+    * Restart the computer
+
 3. It keeps crashing and cannot be opened
-  * This problem is generally caused by the unsupported content format in the current pasteboard or a software bug. Try to copy a paragraph of text again and open the application again. The problem can basically be solved.
+  * Download the repair software [PasteEasyRepair](https://github.com/MinMao-Hub/PasteEasyRepair/releases/tag/1.0) and click Repair once.
 
 4. Why does the screenshot fail to be saved?
 	
-	* The reason for this problem is that the request of read and write the download folder is rejected.
-	* Open system preferences, select Security and Privacy
-	* Select files and folders, and check the download folder under Paste, as shown below
+  * The reason for this problem is that the request of read and write the download folder is rejected.
+  * Open system preferences, select Security and Privacy
+  * Select files and folders, and check the download folder under Paste, as shown below
 
 <img src="./en/images/help4.png" width=400>
 
