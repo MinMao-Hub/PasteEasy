@@ -16,7 +16,9 @@
 
 微信群贴这里，感兴趣的小伙伴可扫码入群：【有时候可能会忘记更新，加不到直接私聊我微信】
 
-<img src="https://github.com/MinMao-Hub/PasteEasy/assets/9302381/088b3248-6a5d-43ba-b39a-ca0317cdcad1" width=250>
+<img src="https://github.com/MinMao-Hub/PasteEasy/assets/9302381/4a6ffe49-b64b-4b7c-b840-4ead455efd46" width=250>
+
+
 
 
 
