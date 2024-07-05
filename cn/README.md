@@ -14,7 +14,7 @@
 
 纸飞机Telegram:  [https://t.me/pasteeasy6](https://t.me/pasteeasy6)
 
-微信群贴这里，感兴趣的小伙伴可扫码入群：【有时候可能会忘记更新，加不到直接私聊我微信】
+微信群贴这里，感兴趣的小伙伴可扫码入群：【有时候可能会忘记更新，加不到直接私聊我微信`mp12860`】
 
 <img src="https://github.com/MinMao-Hub/PasteEasy/assets/9302381/053cab25-e011-417a-bd76-8c88fa7b06f2" width=250>
 
