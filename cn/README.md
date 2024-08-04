@@ -16,7 +16,7 @@
 
 微信群贴这里，感兴趣的小伙伴可扫码入群：【有时候可能会忘记更新，加不到直接私聊我微信`mp12860`】
 
-<img src="https://github.com/MinMao-Hub/PasteEasy/assets/9302381/053cab25-e011-417a-bd76-8c88fa7b06f2" width=250>
+<img src="https://github.com/user-attachments/assets/b3143974-e1cc-494e-97ab-0eb3b450c48a" width=250>
 
 
 
@@ -105,7 +105,7 @@
 
 <img src="./images/help1.png" width=400>
 
-* 点击辅助功能，勾选Paste应用
+* 点击辅助功能，勾选PasteEasy应用
 
 ***PS: 首先需要点击下图左下角解锁功能，输入密码，设置完成之后，重新锁定即可***
 
