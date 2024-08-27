@@ -1,5 +1,6 @@
 # PasteEasy
-# <img style="background-Color:#00000010;vertical-align:middle" src="./en/images/icon_256x256.png" width=200>
+# [<img style="background-Color:#00000010;vertical-align:middle" src="./en/images/icon_256x256.png" width=200>](https://apps.apple.com/app/pasteeasy/id1554034946)
+# [<img style="background-Color:#00000010;vertical-align:middle" src="https://camo.githubusercontent.com/b2703aeb6c3be15a9562f50f5952dfca6a17bac4933c927229b8bd37a04e0a4c/68747470733a2f2f63646e2e72697070657268652e636f6d2f6f73732f6d61737465722f323032322f303632362f446f776e6c6f61645f6f6e5f7468655f4d61635f4170705f53746f72655f42616467655f55532d554b5f5247425f626c6b5f3039323931372e737667" width=150>](https://apps.apple.com/app/pasteeasy/id1554034946)
 
 [English] - [中文版](https://github.com/MinMao-Hub/PasteEasy/tree/main/cn)
 
