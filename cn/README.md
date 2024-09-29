@@ -17,7 +17,7 @@
 
 微信群贴这里，感兴趣的小伙伴可扫码入群：【有时候可能会忘记更新，加不到直接私聊我微信`mp12860`】
 
-<img src="https://github.com/user-attachments/assets/17e21dba-6e38-446a-a2ed-16666c57716f" width=250>
+<img src="https://github.com/user-attachments/assets/da485429-cf55-429e-9c9f-31c5c3e01bf9" width=250>
 
 
 ### 一、新手教程
