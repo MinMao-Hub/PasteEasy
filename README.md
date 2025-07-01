@@ -80,7 +80,8 @@ Besides, you can modify the shortcuts by preference
 * Set your favorite display position in preference
 
 #### About BootStrap Auto Launch
-* Set boot-up in preferences, then the application will be automatically launched when the system is turned on
+* ~~Set boot-up in preferences, then the application will be automatically launched when the system is turned on~~
+* PS: The in-app settings have been removed,[please see here](https://github.com/MinMao-Hub/PasteEasy/blob/main/cn/help_launch.md)
 
 #### Tips
 * Resource will be reserved when the setting capacity is unlimited. To avoid occupying much hard disk capacity, Please clean up useless historical data regularly, or clear historical data according to time period in preferences.
